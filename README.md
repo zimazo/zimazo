@@ -10,5 +10,3 @@ I'm a PhD student at the Technical University of Košice. My research focuses on
 
 ### 📫 How to reach me:
 - Email: peter.poprik@tuke.sk
-- GitHub: [Your GitHub Username]
-

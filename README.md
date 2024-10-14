@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**zimazo/zimazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PhD student at the Technical University of Košice. My research focuses on **Procedural Generation** in **Computer Graphics**, primarily applied to **games**.
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on:
+- My dissertation on procedural content generation using AI elements in games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning:
+- Techniques in procedural generation and artificial intelligence in games
+- Game development in Unity
+
+### 📫 How to reach me:
+- Email: peter.poprik@tuke.sk
+- GitHub: [Your GitHub Username]
+
